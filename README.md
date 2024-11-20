@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Dakshi 👋 <img align="right" src="https://komarev.com/ghpvc/?username=dakshigoel22&color=brightgreen" />
 
+I am currently working as Jr. AI Developer [@Mozrest](https://github.com/mozrest). I am passionate about problem-solving and continuously learning new technologies. My previous projects include work on LLMs, Time-Series Models, Classification Models.
+
+### 📫 Get in touch: 
+<hr />
+<ul>
+    <li> Email - <a href="mailto:dakshi2212@gmail.com">dakshi2212@gmail.com</a></li>
+<!--     <li> Twitter - <a href="https://twitter.com/ashutoshc8101">@ashutoshc8101</a></li> -->
+    <li> LinkedIn - <a href="https://www.linkedin.com/in/dakshi-iit/">dakshi-iit</a></li>
+<!--     <li>Work profile - <a href="https://github.com/ashutosh624">@ashutosh624</a></li> -->
+</ul>
 <!--
 **dakshigoel22/dakshigoel22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
