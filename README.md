@@ -1,6 +1,6 @@
 ## Hi there, I'm Dakshi 👋 <img align="right" src="https://komarev.com/ghpvc/?username=dakshigoel22&color=brightgreen" />
 
-I am currently working as Jr. AI Developer [@Mozrest](https://github.com/mozrest). I am passionate about problem-solving and continuously learning new technologies. My previous projects include work on LLMs, Time-Series Models, Classification Models.
+I am currently working as AI Product Associate [@THE REAL BROKERAGE]. I am passionate about problem-solving and continuously learning new technologies. My previous projects include work on LLMs, Time-Series Models, Classification Models.
 
 ### 📫 Get in touch: 
 <hr />
